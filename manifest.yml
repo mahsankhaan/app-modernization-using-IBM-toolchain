@@ -1,0 +1,4 @@
+ applications:
+ - name: cloudnative-uit
+   random-route: true
+   memory: 128M
