@@ -33,3 +33,31 @@ Mordernize application using IBM toolchain
 ![GitHub Logo](images/s5.png)
 
 
+### Step 5 : Check if your application is up
+
+Click "Visit App URL" and a new tab will open then you can see your app running.
+
+![GitHub Logo](images/s6.png)
+
+
+### Step 6 : It's time to enable toolchain in our application
+
+1. Select "Overview"
+2. In Continuous delivery section "Select Enable" button.
+
+![GitHub Logo](images/s7.png)
+
+3. Now you will see Continuous Delivery Toolchain page.
+
+![GitHub Logo](images/s8.png)
+
+4. In Git repos section insert Source repository URL:
+
+[https://github.com/mahsankhaan/app-modernization-using-toolchain.git](https://github.com/mahsankhaan/app-modernization-using-toolchain.git)
+
+![GitHub Logo](images/s9.png)
+
+
+
+
+
