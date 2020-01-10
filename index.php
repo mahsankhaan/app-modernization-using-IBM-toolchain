@@ -54,7 +54,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Muhammad Ahsan.</h1>
-    <p>Photographer and Web Designer.</p>
+    <p>Developer Advocate , IBM Pakistan.</p>
     <img src="/user.png" alt="boy" class="w3-image" width="992" height="1108">
   </header>
 
