@@ -20,3 +20,16 @@ Mordernize application using IBM toolchain
 ![GitHub Logo](images/s3.png)
 
 
+### Step 4 : Let's setup your cloud foundry 
+
+1. Select region "Dallas" and account type "lite".
+
+![GitHub Logo](images/s4.png)
+
+2. Select runtime "PHP" 
+3. App name: "Cloudnative-app"
+4. Once everything is done click "Create"
+
+![GitHub Logo](images/s5.png)
+
+
