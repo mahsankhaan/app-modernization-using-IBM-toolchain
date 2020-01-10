@@ -27,7 +27,7 @@ Mordernize application using IBM toolchain
 ![GitHub Logo](images/4.png)
 
 2. Select runtime "PHP" 
-3. App name: "Cloudnative-app"
+3. App name: "Cloudnative-xyz" (Please use different names)
 4. Once everything is done click "Create"
 
 ![GitHub Logo](images/5.png)
