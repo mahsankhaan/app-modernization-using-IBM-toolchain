@@ -81,4 +81,13 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
 
 
 
+### Step 7 : Finally your application is up and running
 
+1. Get back to your main page by selectung your app name on top
+
+![GitHub Logo](images/s14.png)
+
+
+2. Click visit URL and see your app running
+
+![GitHub Logo](images/s15.png)
