@@ -64,6 +64,21 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
 ![GitHub Logo](images/s10.png)
 
 
+7. Now your toolchain is created and select "Delivery Pipeline"
+
+![GitHub Logo](images/s11.png)
+
+8. In "Delivery Pipeline" start your build stage
+9. Wait until the your "Build stage" becomes green
+10. After that your "Delpoy stage" will run automatically 
+
+
+![GitHub Logo](images/s12.png)
+
+11. Once both the stages run successfully you will able to see it in green.
+
+![GitHub Logo](images/s13.png)
+
 
 
 
