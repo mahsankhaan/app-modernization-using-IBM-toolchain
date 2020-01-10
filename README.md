@@ -57,6 +57,12 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
 
 ![GitHub Logo](images/s9.png)
 
+5. In Delivery Pipeline section , click "new" to generate API
+
+6. Once everything is done press "Create" button
+
+![GitHub Logo](images/s10.png)
+
 
 
 
