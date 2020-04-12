@@ -1,4 +1,4 @@
-# app-modernization-using-toolchain
+# Application modernization using IBM Toolchain
 Mordernize application using IBM toolchain
 
 ## Follow below steps:
