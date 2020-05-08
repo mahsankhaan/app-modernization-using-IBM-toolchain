@@ -5,7 +5,7 @@ Mordernize application using IBM toolchain
 
 ### Step 1 : Sign-up for IBM Cloud Platform
 
-[http://ibm.biz/becomecloudnative](http://ibm.biz/becomecloudnative)
+[http://ibm.biz/cloudnativeibm]( http://ibm.biz/cloudnativeibm)
 
 ![GitHub Logo](images/1.png)
 
