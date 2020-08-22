@@ -12,7 +12,7 @@ Mordernize application using IBM Toolchain
 
 1. Create IBM Account: [http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
 1. Open this [repo](https://github.com/mahsankhaan/app-modernization-using-IBM-toolchain.git)
-1. And then click on Fork on the top right
+1. And then click on __Fork__ on the top right 
 
 ![GitHub Logo](images/fork.png)
 
