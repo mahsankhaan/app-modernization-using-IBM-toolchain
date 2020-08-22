@@ -8,7 +8,7 @@ Mordernize application using IBM Toolchain
 1. [Setup CloudFoundry service ](#step-4-Setup-CloudFoundry-service)
 
 
-### Step 1. Signup for IBM Cloud Platform & Fork the repository
+### Step 1. Signup for IBM Cloud Platform and Fork the repository
 
 1. Create IBM Account: [http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
 1. Open this [repo](https://github.com/mahsankhaan/app-modernization-using-IBM-toolchain.git)
@@ -62,7 +62,7 @@ Click __Visit App URL__ and a new browser tab will open on which our CF template
 
 4. In Git repos section insert Source repository URL: 
 
-__NOTE: Please use the repo that you fork on [step 2](#step-1-Sign-up-for-IBM-Cloud-Platform-&-Fork-the-repository) or else you can't trigger the change__
+__NOTE: Please use your fork repo done on [step 2](#step-1-sign-up-for-ibm-cloud-platform-and-fork-the-repository) or else you can't trigger the change__
 
 [https://github.com/mahsankhaan/app-modernization-using-toolchain.git](https://github.com/mahsankhaan/app-modernization-using-toolchain.git)
 
