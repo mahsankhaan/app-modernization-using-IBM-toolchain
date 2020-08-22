@@ -62,7 +62,7 @@ Click __Visit App URL__ and a new browser tab will open on which our CF template
 
 4. In Git repos section insert Source repository URL: 
 
-__NOTE: Please use your fork repo done on [step 1](#step-1-sign-up-for-ibm-cloud-platform-and-fork-the-repository) or else you can't trigger the change__
+__NOTE: Please use your fork repo done on [step 1](#step-1-Signup-for-IBM-Cloud-Platform-and-Fork-the-repository) or else you can't trigger the change__
 
 [https://github.com/mahsankhaan/app-modernization-using-toolchain.git](https://github.com/mahsankhaan/app-modernization-using-toolchain.git)
 
