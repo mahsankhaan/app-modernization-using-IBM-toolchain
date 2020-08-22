@@ -39,9 +39,9 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 ![GitHub Logo](images/5.png)
 
 
-### Step 5. Verify if your application is deployed successfully 
+### Step 5. Verify if our CF template is deployed successfully 
 
-Click __Visit App URL__ and a new browser tab will open on which our application is up and running.
+Click __Visit App URL__ and a new browser tab will open on which our CF template is running.
 
 ![GitHub Logo](images/6.png)
 
@@ -74,9 +74,9 @@ Click __Visit App URL__ and a new browser tab will open on which our application
 
 ![GitHub Logo](images/11.png)
 
-8. In "Delivery Pipeline" start your build stage
-9. Wait until the your "Build stage" becomes green
-10. After that your "Delpoy stage" will run automatically 
+8. In __Delivery Pipeline__ start your build stage
+9. Wait until the __Build stage__ becomes green
+10. After that __Delpoy stage__ will trigger and execute automatically 
 
 
 ![GitHub Logo](images/12.png)
@@ -87,7 +87,7 @@ Click __Visit App URL__ and a new browser tab will open on which our application
 
 
 
-### Step 7. Finally your application is up and running
+### Step 7. Finally our application will be up and running
 
 1. Get back to your main page by selecting your app name on top
 
