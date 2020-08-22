@@ -35,9 +35,9 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 ![GitHub Logo](images/4.png)
 
-2. Select runtime "PHP" 
-3. App name: "Cloudnative-xyz" (Please use different names)
-4. Once everything is done click "Create"
+2. Select runtime __PHP__) 
+3. App name: __Cloudnative-xyz__ (Please use different names)
+4. Once everything is completed click __Create__
 
 ![GitHub Logo](images/5.png)
 
@@ -61,7 +61,7 @@ Click __Visit App URL__ and a new browser tab will open on which our CF template
 ![GitHub Logo](images/8.png)
 
 4. In Git repos section insert Source repository URL: 
-__NOTE: Please use the repo that you fork on [step 2]() or else you can't trigger the change__
+__NOTE: Please use the repo that you fork on [step 2]((#step-1-Sign-up-for-IBM-Cloud-Platform-&-Fork-the-repository) or else you can't trigger the change__
 
 [https://github.com/mahsankhaan/app-modernization-using-toolchain.git](https://github.com/mahsankhaan/app-modernization-using-toolchain.git)
 
