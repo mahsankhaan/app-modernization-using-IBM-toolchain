@@ -1,5 +1,5 @@
 # Application modernization using IBM Toolchain
-Mordernize application using IBM toolchain
+Mordernize application using IBM Toolchain
 
 ## Steps:
 1. [Signup for IBM Cloud Platform](#step-1-Sign-up-for-IBM-Cloud-Platform)
