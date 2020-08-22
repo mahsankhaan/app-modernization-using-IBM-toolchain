@@ -4,7 +4,7 @@ Mordernize application using IBM toolchain
 ## Steps:
 1. [Signup for IBM Cloud Platform](#step-1-Sign-up-for-IBM-Cloud-Platform)
 1. [Login into your IBM account and search for CloudFoundry](#step-2-Login-into-your-IBM-account-and-search-for-CloudFoundry)
-1. [Then select "Public Application" and click Create](#step-3-Then-select-"Public Application"-and-click-Create)
+1. [Then select Public Application and click Create](#step-3-Then-select-Public Application-and-click-Create)
 
 
 ### Step 1. Signup for IBM Cloud Platform
@@ -20,7 +20,7 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 ![GitHub Logo](images/2.png)
 
 
-### Step 3. Then select "Public Application" and click Create
+### Step 3. Then select Public Application and click Create
 
 ![GitHub Logo](images/3.png)
 
