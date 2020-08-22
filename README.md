@@ -2,7 +2,7 @@
 Mordernize application using IBM Toolchain
 
 ## Steps:
-1. [Signup for IBM Cloud Platform & Fork the repository](#step-1-Sign-up-for-IBM-Cloud-Platform-and-Fork-the-repository)
+1. [Signup for IBM Cloud Platform and Fork the repository](#step-1-Signup-for-IBM-Cloud-Platform-and-Fork-the-repository)
 1. [Login into your IBM account and search for CloudFoundry](#step-2-Login-into-your-IBM-account-and-search-for-CloudFoundry)
 1. [Create Public Application](#step-3-create-Public-Application)
 1. [Setup CloudFoundry service ](#step-4-Setup-CloudFoundry-service)
