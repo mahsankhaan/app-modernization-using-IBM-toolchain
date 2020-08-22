@@ -79,22 +79,21 @@ __NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform
 
 ![GitHub Logo](images/11.png)
 
-8. In __Delivery Pipeline__ start your build stage
+8. In __Delivery Pipeline__ start build stage
 9. Wait until the __Build stage__ becomes green
 10. After that __Delpoy stage__ will trigger and execute automatically 
 
 
 ![GitHub Logo](images/12.png)
 
-11. Once both the stages run successfully you will able to see it in green.
+11. Once both the stages executed successfully they will be in green.
 
 ![GitHub Logo](images/13.png)
 
 
-
 ### Step 7. Finally our application will be up and running
 
-1. Get back to your main page by selecting your app name on top
+1. Get back to main page by selecting app name on top
 
 ![GitHub Logo](images/14.png)
 
