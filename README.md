@@ -2,17 +2,17 @@
 Mordernize application using IBM Toolchain
 
 ## Steps:
-1. [Signup for IBM Cloud Platform](#step-1-Sign-up-for-IBM-Cloud-Platform)
+1. [Signup for IBM Cloud Platform & Fork the repository](#step-1-Sign-up-for-IBM-Cloud-Platform-&-Fork-the-repository)
 1. [Login into your IBM account and search for CloudFoundry](#step-2-Login-into-your-IBM-account-and-search-for-CloudFoundry)
 1. [Create Public Application](#step-3-create-Public-Application)
 1. [Setup CloudFoundry service ](#step-4-Setup-CloudFoundry-service)
 
 
-### Step 1. Signup for IBM Cloud Platform
+### Step 1. Signup for IBM Cloud Platform & Fork the repository
 
-[http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
-
-![GitHub Logo](images/1.png)
+1. Create IBM Account: [http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
+1. Open this [repo](https://github.com/mahsankhaan/app-modernization-using-IBM-toolchain.git)
+1. And then click on Fork on the top right
 
 
 ### Step 2. Login into your IBM account and search for CloudFoundry
@@ -48,16 +48,17 @@ Click __Visit App URL__ and a new browser tab will open on which our CF template
 
 ### Step 6. Enable toolchain service in our application for continuous integration & delivery
 
-1. Select __Overview__
+1. Select __Overview__ under our CF service
 2. In Continuous delivery section select __Enable__ button.
 
 ![GitHub Logo](images/7.png)
 
-3. Now you will see Continuous Delivery Toolchain page.
+3. There will be Continuous Delivery Toolchain page.
 
 ![GitHub Logo](images/8.png)
 
-4. In Git repos section insert Source repository URL:
+4. In Git repos section insert Source repository URL: 
+__NOTE: Please use the repo that you fork on [step 2]() or else you can't trigger the change__
 
 [https://github.com/mahsankhaan/app-modernization-using-toolchain.git](https://github.com/mahsankhaan/app-modernization-using-toolchain.git)
 
