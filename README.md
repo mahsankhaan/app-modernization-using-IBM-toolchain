@@ -13,6 +13,8 @@ Mordernize application using IBM Toolchain
 1. Create IBM Account: [http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
 1. Open this [repo](https://github.com/mahsankhaan/app-modernization-using-IBM-toolchain.git)
 1. And then click on Fork on the top right
+![GitHub Logo](images/fork.png)
+
 
 
 ### Step 2. Login into your IBM account and search for CloudFoundry
