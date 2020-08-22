@@ -3,6 +3,7 @@ Mordernize application using IBM toolchain
 
 ## Steps:
 1. [Sign-up for IBM Cloud Platform](#Sign-up-for-IBM-Cloud-Platform)
+1. [Login-into your IBM account and search for CloudFoundry](Login-into-your-IBM-account-and-search-for-CloudFoundry)
 
 
 ### Step 1. Sign-up for IBM Cloud Platform
@@ -12,7 +13,7 @@ Mordernize application using IBM toolchain
 ![GitHub Logo](images/1.png)
 
 
-### Step 2. Login into your IBM account and search for "CloudFoundry"
+### Step 2. Login into your IBM account and search for CloudFoundry
 IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 ![GitHub Logo](images/2.png)
