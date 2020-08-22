@@ -39,17 +39,17 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 ![GitHub Logo](images/5.png)
 
 
-### Step 5. Check if your application is up
+### Step 5. Verify if your application is deployed successfully 
 
-Click "Visit App URL" and a new tab will open then you can see your app running.
+Click __Visit App URL__ and a new browser tab will open on which our application is up and running.
 
 ![GitHub Logo](images/6.png)
 
 
-### Step 6. It's time to enable toolchain in our application
+### Step 6. Enable toolchain service in our application for continuous integration & delivery
 
-1. Select "Overview"
-2. In Continuous delivery section "Select Enable" button.
+1. Select __Overview__
+2. In Continuous delivery section select __Enable__ button.
 
 ![GitHub Logo](images/7.png)
 
