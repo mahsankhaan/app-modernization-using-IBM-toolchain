@@ -23,7 +23,7 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 ### Step 3. Then select Public Application and click create
 
-![GitHub Logo](images/3.png)
+![GitHub Logo](images/3up.png)
 
 
 ### Step 4. Setup CloudFoundry service 
