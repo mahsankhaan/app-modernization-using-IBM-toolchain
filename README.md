@@ -1,27 +1,29 @@
 # Application modernization using IBM Toolchain
 Mordernize application using IBM toolchain
 
-## Follow below steps:
+## Steps:
+1. [Sign-up for IBM Cloud Platform](#Sign-up-for-IBM-Cloud-Platform)
 
-### Step 1 : Sign-up for IBM Cloud Platform
+
+### Step 1. Sign-up for IBM Cloud Platform
 
 [http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
 
 ![GitHub Logo](images/1.png)
 
 
-### Step 2 : Login into your IBM account and search for "CloudFoundry"
+### Step 2. Login into your IBM account and search for "CloudFoundry"
 IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 ![GitHub Logo](images/2.png)
 
 
-### Step 3 : Then select "Public Application" and click Create
+### Step 3. Then select "Public Application" and click Create
 
 ![GitHub Logo](images/3.png)
 
 
-### Step 4 : Let's setup your cloud foundry 
+### Step 4. Let's setup your cloud foundry 
 
 1. Select region "Dallas" and account type "lite".
 
@@ -34,14 +36,14 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 ![GitHub Logo](images/5.png)
 
 
-### Step 5 : Check if your application is up
+### Step 5. Check if your application is up
 
 Click "Visit App URL" and a new tab will open then you can see your app running.
 
 ![GitHub Logo](images/6.png)
 
 
-### Step 6 : It's time to enable toolchain in our application
+### Step 6. It's time to enable toolchain in our application
 
 1. Select "Overview"
 2. In Continuous delivery section "Select Enable" button.
@@ -82,7 +84,7 @@ Click "Visit App URL" and a new tab will open then you can see your app running.
 
 
 
-### Step 7 : Finally your application is up and running
+### Step 7. Finally your application is up and running
 
 1. Get back to your main page by selecting your app name on top
 
