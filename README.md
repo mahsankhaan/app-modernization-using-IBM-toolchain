@@ -1,5 +1,4 @@
 # Application modernization using IBM Toolchain
-Mordernize application using IBM Toolchain
 
 ## Steps:
 1. [Signup for IBM Cloud Platform and Fork the repository](#step-1-Signup-for-IBM-Cloud-Platform-and-Fork-the-repository)
