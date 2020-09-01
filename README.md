@@ -9,7 +9,7 @@
 
 ### Step 1. Signup for IBM Cloud Platform and Fork the repository
 
-1. Create IBM Account: [http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
+1. Create IBM Account: [Here](http://ibm.biz/cloudnative2020)
 1. Open this [repo](https://github.com/mahsankhaan/app-modernization-using-IBM-toolchain.git)
 1. And then click on __Fork__ on the top right 
 
