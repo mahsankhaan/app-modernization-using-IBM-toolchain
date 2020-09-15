@@ -5,6 +5,7 @@
 1. [Login into your IBM account and search for CloudFoundry](#step-2-Login-into-your-IBM-account-and-search-for-CloudFoundry)
 1. [Create Public Application](#step-3-create-Public-Application)
 1. [Setup CloudFoundry service ](#step-4-Setup-CloudFoundry-service)
+1. [Verify Cloud Foundry deployed successfully](#step5-Verify-Cloud-Foundry-deployed-successfully )
 
 
 ### Step 1. Signup for IBM Cloud Platform and Fork the repository
@@ -41,7 +42,7 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 ![GitHub Logo](images/5.png)
 
 
-### Step 5. Verify if our CF template is deployed successfully 
+### Step 5. Verify Cloud Foundry deployed successfully 
 
 Click __Visit App URL__ and a new browser tab will open on which our CF template is running.
 
