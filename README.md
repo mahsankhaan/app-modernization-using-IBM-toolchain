@@ -104,3 +104,7 @@ __NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform
 2. Click visit URL and see your app running
 
 ![GitHub Logo](images/15.png)
+
+
+![GitHub Logo](images/app.png)
+
