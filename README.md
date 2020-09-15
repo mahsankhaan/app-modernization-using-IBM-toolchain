@@ -6,7 +6,8 @@
 1. [Create Public Application](#step-3-create-Public-Application)
 1. [Setup CloudFoundry service ](#step-4-Setup-CloudFoundry-service)
 1. [Verify Cloud Foundry deployed successfully](#step-5-Verify-Cloud-Foundry-deployed-successfully )
-1. [Enable Toolchain service for continuous integration & delivery](#step-6-Enable-Toolchain-service-for-continuous-integration-&-delivery)
+1. [Enable Toolchain service for continuous integration and delivery](#step-6-Enable-Toolchain-service-for-continuous-integration-and-delivery)
+1. [Finally application would be up and running](#step-7-Finally-application-would-be-up-and-running)
 
 
 ### Step 1. Signup for IBM Cloud Platform and Fork the repository
@@ -50,7 +51,7 @@ Click __Visit App URL__ and a new browser tab will open on which our CF template
 ![GitHub Logo](images/6.png)
 
 
-### Step 6. Enable Toolchain service for continuous integration & delivery
+### Step 6. Enable Toolchain service for continuous integration and delivery
 
 1. Select __Overview__ under our CF service
 2. In Continuous delivery section select __Enable__ button.
@@ -92,7 +93,7 @@ __NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform
 ![GitHub Logo](images/13.png)
 
 
-### Step 7. Finally our application will be up and running
+### Step 7. Finally application would be up and running
 
 1. Get back to main page by selecting app name on top
 
