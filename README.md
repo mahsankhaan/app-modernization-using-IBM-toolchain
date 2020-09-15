@@ -18,6 +18,7 @@
 
 ![GitHub Logo](images/fork.png)
 
+__NOTE:__ Kindly udpdate __manifest.yml__ file, open and change the __name__ filed to something unique. 
 
 
 ### Step 2. Login into your IBM account and search for CloudFoundry
