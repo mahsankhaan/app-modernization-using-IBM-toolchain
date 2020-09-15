@@ -55,7 +55,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> User.</h1>
     <p>Cloud Developer Advocate , IBM Pakistan.</p>
-    <img src="/profile.png" alt="boy" class="w3-image" width="500" height="500">
+    <img src="/profile.png" alt="boy" class="w3-image" width="100" height="100">
   </header>
 
   <!-- About Section -->
