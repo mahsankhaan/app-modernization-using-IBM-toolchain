@@ -31,7 +31,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </a>
   <a href="#photos" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-eye w3-xxlarge"></i>
-    <p>PHOTOS</p>
+    <p>PROJECTS</p>
   </a>
   <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-envelope w3-xxlarge"></i>
@@ -67,15 +67,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     </p>
     <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
-    <p class="w3-wide">Photography</p>
+    <p class="w3-wide">RedHat OpenShift</p>
     <div class="w3-white">
-      <div class="w3-dark-grey" style="height:28px;width:95%"></div>
+      <div class="w3-dark-grey" style="height:28px;width:90%"></div>
     </div>
-    <p class="w3-wide">Web Design</p>
+    <p class="w3-wide">Kubernetes</p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:85%"></div>
     </div>
-    <p class="w3-wide">Photoshop</p>
+    <p class="w3-wide">Cloud Migration</p>
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:80%"></div>
     </div><br>
@@ -148,7 +148,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p><span class="w3-large w3-margin-right">Chris Fox.</span> CEO at Mighty Schools.</p>
     <p>Jane Doe saved us from a web disaster.</p><br>
     
-    <img src="/images/a2.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <img src="/images/a2.png" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Rebecca Flex.</span> CEO at Company.</p>
     <p>No one is better than Jane Doe.</p>
   <!-- End About Section -->
