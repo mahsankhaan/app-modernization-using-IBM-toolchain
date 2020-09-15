@@ -114,7 +114,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           <li class="w3-padding-16">5GB Storage</li>
           <li class="w3-padding-16">Mail Support</li>
           <li class="w3-padding-16">
-            <h2>$ 10</h2>
+            <h2>$ 15</h2>
             <span class="w3-opacity">per month</span>
           </li>
           <li class="w3-light-grey w3-padding-24">
