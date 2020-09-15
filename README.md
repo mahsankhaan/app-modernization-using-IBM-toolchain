@@ -1,4 +1,4 @@
-# Application modernization using IBM Toolchain
+![GitHub Logo](check.png)
 
 ## Steps:
 1. [Signup for IBM Cloud Platform and Fork the repository](#step-1-Signup-for-IBM-Cloud-Platform-and-Fork-the-repository)
