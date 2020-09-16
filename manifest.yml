@@ -1,6 +1,6 @@
  applications:
- - name: mycloudnativeapp
-   host: mycloudnativeapp
+ - name: cloudnativeapp901
+   host: cloudnativeapp901
    random-route: true
    memory: 128M
    buildpack: sdk-for-php
