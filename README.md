@@ -54,10 +54,10 @@ Click __Visit App URL__ and a new browser tab will open on which our CF template
 
 ### Step 6. Enable Toolchain service for continuous integration and delivery
 
-1. Select __Overview__ under our CF service
+1. Select __Overview__ from left menu under Cloud Foundry service
 2. In Continuous delivery section select __Enable__ button.
 
-![GitHub Logo](images/7.png)
+![GitHub Logo](images/70.png)
 
 3. There will be Continuous Delivery Toolchain page.
 
