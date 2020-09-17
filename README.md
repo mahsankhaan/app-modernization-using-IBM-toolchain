@@ -75,7 +75,7 @@ __NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform
 
 6. Once everything is done press "Create" button
 
-![GitHub Logo](images/10.png)
+![GitHub Logo](images/100.png)
 
 
 7. Now your toolchain is created and select "Delivery Pipeline"
