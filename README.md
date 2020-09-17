@@ -49,7 +49,7 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 Click __Visit App URL__ and a new browser tab will open on which our CF template is running.
 
-![GitHub Logo](images/6.png)
+![GitHub Logo](images/60.png)
 
 
 ### Step 6. Enable Toolchain service for continuous integration and delivery
