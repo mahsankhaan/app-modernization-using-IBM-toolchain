@@ -36,7 +36,7 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 1. Select region "Dallas" and account type "lite".
 
-![GitHub Logo](images/4.png)
+![GitHub Logo](images/40.png)
 
 2. Select runtime __PHP__) 
 3. App name: __Cloudnative-xyz__ (Please use different names)
