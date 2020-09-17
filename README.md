@@ -42,7 +42,7 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 3. App name: __Cloudnative-xyz__ (Please use different names)
 4. Once everything is completed click __Create__
 
-![GitHub Logo](images/5.png)
+![GitHub Logo](images/50.png)
 
 
 ### Step 5. Verify Cloud Foundry deployed successfully 
