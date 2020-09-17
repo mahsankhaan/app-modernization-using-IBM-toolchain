@@ -80,7 +80,7 @@ __NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform
 
 7. Now your toolchain is created and select "Delivery Pipeline"
 
-![GitHub Logo](images/11.png)
+![GitHub Logo](images/110.png)
 
 8. In __Delivery Pipeline__ start build stage
 9. Wait until the __Build stage__ becomes green
