@@ -69,7 +69,7 @@ __NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform
 
 [https://github.com/mahsankhaan/app-modernization-using-toolchain.git](https://github.com/mahsankhaan/app-modernization-using-toolchain.git)
 
-![GitHub Logo](images/9.png)
+![GitHub Logo](images/90.png)
 
 5. In Delivery Pipeline section , click "new" to generate API
 
