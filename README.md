@@ -61,7 +61,7 @@ Click __Visit App URL__ and a new browser tab will open on which our CF template
 
 3. There will be Continuous Delivery Toolchain page.
 
-![GitHub Logo](images/8.png)
+![GitHub Logo](images/80.png)
 
 4. In Git repos section insert Source repository URL: 
 
