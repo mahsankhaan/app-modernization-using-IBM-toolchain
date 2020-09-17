@@ -91,7 +91,7 @@ __NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform
 
 11. Once both the stages executed successfully they will be in green.
 
-![GitHub Logo](images/13.png)
+![GitHub Logo](images/130.png)
 
 
 ### Step 7. Finally application would be up and running
